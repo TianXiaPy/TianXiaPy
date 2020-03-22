@@ -1,0 +1,286 @@
+
+**********************************	DD LOG START	***********************************
+
+*****************************	TASK LOG	******************************
+
+*****************************	SSD LOG	******************************
+***************************** PAM LOG ******************************
+
+=================== UDP LINK INFO START ===================
+
+UDPÁ´Â·Í³¼ÆÈçÏÂ:
+Á´Â·ÀàÐÍ  ||¿ÉÓÃÁ´Â·Êý||ÒÑÅäÖÃÁ´Â·Êý||×î´óÁ´Â·ÈÝÁ¿
+0         ||1         ||1           ||40          
+1         ||0         ||0           ||73          
+
+UDPÐ­ÒéÓÐOSPÍ·Á´Â·Í³¼ÆÈçÏÂ:
+====================================================
+Á´Â·ID: 0
+Á´Â·Ð­ÒéÀàÐÍ: 0
+Á´Â·ÀàÐÍ: 0
+Ô´¶Ë¿ÚºÅ: 20000
+Ä¿µÄ¶Ë¿ÚºÅ: 20000
+Ô´IPµØÖ·: 0.0.0.0
+Ä¿µÄIPµØÖ·: 0.0.0.0
+Á´Â·³ÐÔØSFU: 0x00000000  msgType=0
+
+
+
+UDPÐ­ÒéÎÞOSPÍ·Á´Â·Í³¼ÆÈçÏÂ:
+====================================================
+Á´Â·ID: 32768
+Á´Â·Ð­ÒéÀàÐÍ: 2
+Á´Â·ÀàÐÍ: 2
+Ô´¶Ë¿ÚºÅ: 33334
+Ä¿µÄ¶Ë¿ÚºÅ: 33333
+Ô´IPµØÖ·: 10.1.0.100
+Ä¿µÄIPµØÖ·: 255.255.255.255
+Á´Â·³ÐÔØSFU: 0x0700000c  msgType=2218
+
+
+
+UDPÐ­ÒéÓÐOSPÍ·Á´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+==========================================
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+0         ||0         ||  175768( 175768/0      )||  174392( 174392/0      )||  174392( 174392/0      )||
+
+UDPÎÞOSPÍ·Á´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+==========================================
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+32768     ||2         ||       3(      3/0      )||       3(      3/0      )||       3(      3/0      )||
+u32SendSuccessCnt: --->||    175768||         3||         0||         0||
+u32SendFailCnt: --->||         0||         0||         0||         0||
+u32RevSuccessCnt: --->||    174392||         3||         0||         0||
+u32RevFailCnt: --->||         0||         0||         0||         0||
+u32OspSendSuccessCnt: --->||    174392||         3||         0||         0||
+u32OspSendFailCnt: --->||         0||         0||         0||         0||
+u32LinkCreateSuccessCnt: --->||         1||         0||         0||         0||
+u32LinkCreateFailCnt: --->||         0||         0||         0||         0||
+u32AllocSuccessCnt: --->||    174392||         0||         0||         0||
+u32AllocFailCnt: --->||         0||         0||         0||         0||
+u32SocketCreatedSuccessCnt: --->||         1||         0||         0||         0||
+u32SocketCreatedFailCnt: --->||         0||         0||         0||         0||
+u32BindSuccessCnt: --->||         1||         0||         0||         0||
+u32BindFailCnt: --->||         0||         0||         0||         0||
+u32ConnectSuccessCnt: --->||         0||
+u32ConnectFailCnt: --->||         0||
+u32SocketCloseSuccessCnt: --->||         0||         0||         0||         0||
+u32SocketCloseFailCnt: --->||         0||         0||         0||         0||
+u32UpdateArpSuccessCnt: --->||         0||
+u32UpdateArpFailCnt: --->||         0||
+s32Errno1: --->||         0||
+s32Errno2: --->||         0||
+s32Errno3: --->||         0||
+
+=================== UDP LINK INFO END ===================
+
+=================== TCP SERVER INFO START ===================
+
+SERVER¶ËÁ´Â·Í³¼ÆÈçÏÂ:
+Á´Â·ÀàÐÍ  ||¿ÉÓÃÁ´Â·Êý||ÒÑÅäÖÃÁ´Â·Êý||×î´óÁ´Â·ÈÝÁ¿
+0         ||0         ||0           ||72          
+1         ||0         ||0           ||72          
+2         ||0         ||0           ||72          
+
+===================================================================
+
+CLIENT¶ËÁ´Â·Í³¼ÆÈçÏÂ:
+Á´Â·ÀàÐÍ  ||¿ÉÓÃÁ´Â·Êý||ÒÑÅäÖÃÁ´Â·Êý||×î´óÁ´Â·ÈÝÁ¿
+0         ||0         ||0           ||1           
+1         ||0         ||0           ||1           
+2         ||1         ||1           ||1           
+
+===================================================================
+Á´Â·ID: 36864
+Á´Â·Ð­ÒéÀàÐÍ: 6
+Á´Â·ÀàÐÍ: 2
+Ô´¶Ë¿ÚºÅ: 12405
+Ä¿µÄ¶Ë¿ÚºÅ: 30000
+Ô´IPµØÖ·: 0xc020010a
+Ä¿µÄIPµØÖ·: 0xa0103c0
+Á´Â·³ÐÔØSFU: 0x0700000c  msgType=2205
+
+
+
+SERVER¶ËÁ´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+
+CLIENT¶ËÁ´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+36864     ||2         ||   34378(  34378/0      )||   33738(  33738/0      )||   33738(  33738/0      )
+
+=================== TCP SERVER INFO END ===================
+
+=================== TCP CLIENT INFO START ===================
+
+SERVER¶ËÁ´Â·Í³¼ÆÈçÏÂ:
+Á´Â·ÀàÐÍ  ||¿ÉÓÃÁ´Â·Êý||ÒÑÅäÖÃÁ´Â·Êý||×î´óÁ´Â·ÈÝÁ¿
+0         ||0         ||0           ||72          
+1         ||0         ||0           ||72          
+2         ||0         ||0           ||72          
+
+===================================================================
+
+CLIENT¶ËÁ´Â·Í³¼ÆÈçÏÂ:
+Á´Â·ÀàÐÍ  ||¿ÉÓÃÁ´Â·Êý||ÒÑÅäÖÃÁ´Â·Êý||×î´óÁ´Â·ÈÝÁ¿
+0         ||0         ||0           ||1           
+1         ||0         ||0           ||1           
+2         ||1         ||1           ||1           
+
+===================================================================
+Á´Â·ID: 36864
+Á´Â·Ð­ÒéÀàÐÍ: 6
+Á´Â·ÀàÐÍ: 2
+Ô´¶Ë¿ÚºÅ: 12405
+Ä¿µÄ¶Ë¿ÚºÅ: 30000
+Ô´IPµØÖ·: 0xc020010a
+Ä¿µÄIPµØÖ·: 0xa0103c0
+Á´Â·³ÐÔØSFU: 0x0700000c  msgType=2205
+
+
+
+SERVER¶ËÁ´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+
+CLIENT¶ËÁ´Â·Êý¾ÝÊÕ·¢Í³¼ÆÈçÏÂ:
+Á´Â·ID    ||Á´Â·ÀàÐÍ  ||  ·¢ËÍÊý¾Ý(³É¹¦/Ê§°Ü)    ||  ½ÓÊÕÊý¾Ý(³É¹¦/Ê§°Ü)    ||  Ìá½»Êý¾Ý(³É¹¦/Ê§°Ü)  ||
+
+36864     ||2         ||   34378(  34378/0      )||   33738(  33738/0      )||   33738(  33738/0      )
+
+=================== TCP CLIENT INFO END ===================
+***************************** NET LOG ******************************
+Iface	Destination	Gateway 	Flags	RefCnt	Use	Metric	Mask		MTU	Window	IRTT                                                       
+eth0	0000000A	C003010A	0003	0	0	0	0000FFFF	0	0	0                                                                               
+eth0	C000000A	C003010A	0007	0	0	0	FFFFFFFF	0	0	0                                                                               
+eth0	C101000A	C003010A	0007	0	0	0	FFFFFFFF	0	0	0                                                                               
+eth0	0040000A	00000000	0001	0	0	0	00C0FFFF	0	0	0                                                                               
+eth0	0000010A	00000000	0001	0	0	0	0000FFFF	0	0	0                                                                               
+eth0	00000A0A	C003010A	0003	0	0	0	0000FFFF	0	0	0                                                                               
+eth0	00000A0A	6300010A	0003	0	0	0	0000FFFF	0	0	0                                                                               
+eth1	00001BAC	00000000	0001	0	0	0	0000FFFF	0	0	0                                                                               
+eth0	FFFFFFFF	6400010A	0007	0	0	0	FFFFFFFF	0	0	0                                                                               
+Ip: Forwarding DefaultTTL InReceives InHdrErrors InAddrErrors ForwDatagrams InUnknownProtos InDiscards InDelivers OutRequests OutDiscards OutNoRoutes ReasmTimeout ReasmReqds ReasmOKs ReasmFails FragOKs FragFails FragCreates
+Ip: 2 64 325820 0 0 0 0 0 323080 327477 0 0 0 5464 2724 0 28 0 56
+Icmp: InMsgs InErrors InCsumErrors InDestUnreachs InTimeExcds InParmProbs InSrcQuenchs InRedirects InEchos InEchoReps InTimestamps InTimestampReps InAddrMasks InAddrMaskReps OutMsgs OutErrors OutDestUnreachs OutTimeExcds OutParmProbs OutSrcQuenchs OutRedirects OutEchos OutEchoReps OutTimestamps OutTimestampReps OutAddrMasks OutAddrMaskReps
+Icmp: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 19 0 0 2 1 148682 171495 492 1 2 0
+Udp: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti
+Udp: 174395 0 0 175771 0 0 0 3
+UdpLite: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti
+UdpLite: 0 0 0 0 0 0 0 0
+  sl  local_address rem_address   st tx_queue rx_queue tr tm->when retrnsmt   uid  timeout inode                                                     
+   0: 00000000:2B67 00000000:0000 0A 00000000:00000000 00:00000000 00000000     0        0 2084 1 ffff800029639080 100 0 0 10 0                      
+   1: 00000000:56CE 00000000:0000 0A 00000000:00000000 00:00000000 00000000     0        0 2082 1 ffff800029639800 100 0 0 10 0                      
+   2: 00000000:2710 00000000:0000 0A 00000000:00000000 00:00000000 00000000     0        0 3249 1 ffff8000296e27c0 100 0 0 10 0                      
+   3: 00000000:2711 00000000:0000 0A 00000000:00000000 00:00000000 00000000     0        0 3250 1 ffff8000296e2040 100 0 0 10 0                      
+   4: C020010A:7530 C003010A:7530 01 00000000:00000000 02:00091661 00000000     0        0 24782 2 ffff8000293f77c0 20 4 31 10 37                    
+  sl  local_address rem_address   st tx_queue rx_queue tr tm->when retrnsmt   uid  timeout inode ref pointer drops             
+  162: 00000000:4E20 00000000:0000 07 00000000:00000000 00:00000000 00000000     0        0 3299 2 ffff8000294f5800 0          
+  184: 00000000:8236 00000000:0000 07 00000000:00000000 00:00000000 00000000     0        0 3300 2 ffff8000294f5440 0          
+  199: 00000000:0045 00000000:0000 07 00000000:00000000 00:00000000 00000000     0        0 1184 2 ffff8000294f5bc0 0          
+  499: 00000000:1771 00000000:0000 07 00000000:00000000 00:00000000 00000000     0        0 3302 2 ffff8000294f5080 0          
+TcpExt: SyncookiesSent SyncookiesRecv SyncookiesFailed EmbryonicRsts PruneCalled RcvPruned OfoPruned OutOfWindowIcmps LockDroppedIcmps ArpFilter TW TWRecycled TWKilled PAWSPassive PAWSActive PAWSEstab DelayedACKs DelayedACKLocked DelayedACKLost ListenOverflows ListenDrops TCPPrequeued TCPDirectCopyFromBacklog TCPDirectCopyFromPrequeue TCPPrequeueDropped TCPHPHits TCPHPHitsToUser TCPPureAcks TCPHPAcks TCPRenoRecovery TCPSackRecovery TCPSACKReneging TCPFACKReorder TCPSACKReorder TCPRenoReorder TCPTSReorder TCPFullUndo TCPPartialUndo TCPDSACKUndo TCPLossUndo TCPLostRetransmit TCPRenoFailures TCPSackFailures TCPLossFailures TCPFastRetrans TCPForwardRetrans TCPSlowStartRetrans TCPTimeouts TCPLossProbes TCPLossProbeRecovery TCPRenoRecoveryFail TCPSackRecoveryFail TCPSchedulerFailed TCPRcvCollapsed TCPDSACKOldSent TCPDSACKOfoSent TCPDSACKRecv TCPDSACKOfoRecv TCPAbortOnData TCPAbortOnClose TCPAbortOnMemory TCPAbortOnTimeout TCPAbortOnLinger TCPAbortFailed TCPMemoryPressures TCPSACKDiscard TCPDSACKIgnoredOld TCPDSACKIgnoredNoUndo TCPSpuriousRTOs TCPMD5NotFound TCPMD5Unexpected TCPMD5Failure TCPSackShifted TCPSackMerged TCPSackShiftFallback TCPBacklogDrop TCPMinTTLDrop TCPDeferAcceptDrop IPReversePathFilter TCPTimeWaitOverflow TCPReqQFullDoCookies TCPReqQFullDrop TCPRetransFail TCPRcvCoalesce TCPOFOQueue TCPOFODrop TCPOFOMerge TCPChallengeACK TCPSYNChallenge TCPFastOpenActive TCPFastOpenActiveFail TCPFastOpenPassive TCPFastOpenPassiveFail TCPFastOpenListenOverflow TCPFastOpenCookieReqd TCPSpuriousRtxHostQueues BusyPollRxPackets TCPAutoCorking TCPFromZeroWindowAdv TCPToZeroWindowAdv TCPWantZeroWindowAdv TCPSynRetrans TCPOrigDataSent TCPHystartTrainDetect TCPHystartTrainCwnd TCPHystartDelayDetect TCPHystartDelayCwnd TCPACKSkippedSynRecv TCPACKSkippedPAWS TCPACKSkippedSeq TCPACKSkippedFinWait2 TCPACKSkippedTimeWait TCPACKSkippedChallenge TCPWinProbe TCPKeepAlive TCPMTUPFail TCPMTUPSuccess
+TcpExt: 0 0 0 0 0 0 0 0 0 0 16 0 0 0 0 0 1538 21 57 0 0 1934 4204 1796348 0 39529 1444 1086 63478 0 28 0 0 0 0 2 0 2 25 2 0 0 0 0 31 5 3 5 466 1 0 0 0 0 57 34 464 0 2 0 0 0 0 0 0 0 0 379 0 0 0 0 24 9 263 0 0 0 0 0 0 0 0 17301 359 0 34 1 1 0 0 0 0 0 0 0 0 398 0 0 0 1 98409 3 56 0 0 0 0 0 0 0 0 0 20 0 0
+IpExt: InNoRoutes InTruncatedPkts InMcastPkts OutMcastPkts InBcastPkts OutBcastPkts InOctets OutOctets InMcastOctets OutMcastOctets InBcastOctets OutBcastOctets InCsumErrors InNoECTPkts InECT1Pkts InECT0Pkts InCEPkts
+IpExt: 0 0 0 0 6 3 29314068 29958145 0 0 258 111 0 337499 0 0 0
+
+*****************************	BSP LOG	******************************
+cmd > ssd_monitor
+
+
+################################################################
+SSDÇý¶¯ÒÑ¾­³õÊ¼»¯
+
+
+ÖÐ¶Ï´¦Àí×ÓÄ£¿é
+5msÖÐ¶Ï´ÎÊý  = 24470039
+ÉÏ´ÎÒì³£80msµÄ5ms´ÎÊý  = 0
+80msÖÐ¶Ï´ÎÊý = 0
+5ms¶ªÊ§´ÎÊý/»Ö¸´´ÎÊý   = 0x0                                                                               
+Ê±ÖÓÉÏ´ÎµÄ¸æ¾¯¼Ä´æÆ÷ÖµÎª = 0xc0                                                                              
+Ê±ÖÓ±¾´ÎµÄ¸æ¾¯¼Ä´æÆ÷ÖµÎª = 0x0                                                                               
+Ê±ÖÓÊ§Ëø¸æ¾¯´ÎÊý = 0x0                                                                               
+Í¬²½ÂëÁ÷¸æ¾¯´ÎÊý = 0x0                                                                               
+Ö÷±¸µ¹»»¸æ¾¯´ÎÊý = 0x0                                                                               
+×Ü¼ÆÊ±ÖÓ¸æ¾¯ÖÐ¶Ï´ÎÊý = 0x0                                                                               
+·¢ÉúÖÐ¶Ï²»¶ÔÆëµÄ´ÎÊý = 0x0                                                                               
+·¢ÉúÖÐ¶Ï²»¶ÔÆëµÄ¸æ¾¯´ÎÊý = 0x0                                                                               
+µ÷ÓÃOSP_HOOK   ´ÎÊý = 0x1756217                                                                         
+Ê±ÖÓÖÐ¶Ï¼à¿ØID = 0x0                                                                               
+Ê±ÖÓÖÐ¶Ï¼à¿ØID = 0x0                                                                               
+¿´ÃÅ¹·Ãë¼¶¼ÆÊýÎª = 0x0                                                                               
+1S Ó²¼þtimer ¼à¿ØID = 0x0                                                                               
+¿´ÃÅ¹·ID = 0x0                                                                               
+
+
+°å¿¨Î»ÖÃ:    »ú¿òºÅ = 7; ²ÛÎ»ºÅ = 0; ´¦ÀíÆ÷ºÅ = 0. 
+BOARD HARWARE VERSION = 1.0.1 
+BOARD FSBL VERSION = TDAU5164N78_FSBL_M-01 
+
+*****************************	ETHSW LOG	******************************
+ETHSW LOG is Not Registered.
+
+*****************************	ETH LOG	******************************
+ETH LOG is Not Registered.
+
+*****************************	PSA LOG	******************************
+PSA LOG is Not Registered.
+
+*****************************	DSI LOG	******************************
+DSI LOG is Not Registered.
+
+*****************************	RESERVE1	******************************
+RESERVE1 is Not Registered.
+
+*****************************	RESERVE2	******************************
+RESERVE2 is Not Registered.
+
+*****************************	RESERVE3	******************************
+RESERVE3 is Not Registered.
+
+*****************************	RESERVE4	******************************
+RESERVE4 is Not Registered.
+
+*****************************	IMA LOG	******************************
+IMA LOG is Not Registered.
+
+*****************************	OFP LOG	******************************
+OFP LOG is Not Registered.
+
+*****************************	NP LOG	******************************
+NP LOG is Not Registered.
+
+*****************************	RESERVE5	******************************
+RESERVE5 is Not Registered.
+
+*****************************	RESERVE6	******************************
+RESERVE6 is Not Registered.
+
+*****************************	RESERVE7	******************************
+RESERVE7 is Not Registered.
+
+*****************************	SYSIIC LOG	******************************
+SYSIIC LOG is Not Registered.
+
+*****************************	PLL LOG	******************************
+PLL LOG is Not Registered.
+
+*****************************	EPLD LOG	******************************
+EPLD LOG is Not Registered.
+
+*****************************	SPI LOG	******************************
+SPI LOG is Not Registered.
+
+*****************************	UART LOG	******************************
+UART LOG is Not Registered.
+
+*****************************	NET LOG	******************************
+
+**********************************	DD LOG END	***********************************
+®®®®           00000000_2020-03-21_02-57-13_sys_71.log     >ö                                                            Å                          

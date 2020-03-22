@@ -1,24 +1,9 @@
-#encoding utf-8
+# encoding utf-8
+import LogFile
 
-import os
-import sys
-import os.path as os_path
-
-
-class LogFile(object):
-
-    def __init__(self):
-        self.log = ".log"
-
-    def endswith(self, type):
-        pass
+logCfg = LogFile.LogConfigInfo()
+print(logCfg.get_log_dir())
 
 
 if __name__ == "__main__":
-    fp = open("./1215log.txt",encoding="utf-8")
-    line_content = fp.readlines()
-    print(ospath.abspath(""))
-    print(line_content)
-    for line in line_content:
-        print(line)
-    fp.close()
+    pass
