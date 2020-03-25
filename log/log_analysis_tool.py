@@ -1,8 +1,9 @@
 # encoding utf-8
 import LogFile
+import re
 
 logCfg = LogFile.LogConfigInfo()
-print(logCfg.get_log_dir())
+print(logCfg.log_dir())
 
 
 if __name__ == "__main__":

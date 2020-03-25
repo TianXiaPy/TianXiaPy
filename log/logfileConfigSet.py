@@ -12,7 +12,7 @@ config = configparser.RawConfigParser()
 # values using the mapping protocol or ConfigParser's set() does not allow
 # such assignments to take place.
 config.add_section('LogDir')
-config.set('LogDir', 'log_path', 'C:\\Users\\MGF\\Documents\\GitHub\\TianXiaPy\\log')
+config.set('LogDir', 'log_path', 'C:\\Users\\MGF\\Documents\\GitHub\\TianXiaPy\\log\\origin_data')
 config.add_section('LogType')
 config.set('LogType', 'aiu_log1', '1.log')
 config.set('LogType', 'aiu_log61', '61.log')
